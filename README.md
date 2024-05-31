@@ -1,10 +1,10 @@
-# EcoMobile - Carro Movido a Lixo Reciclável
+# 🚙 EcoMobile - Carro Movido a Lixo Reciclável
 
 ## 📒 Descrição
 O projeto "EcoMobile" é uma inovadora iniciativa de desenvolvimento de um carro movido a lixo reciclável, com o objetivo de promover a sustentabilidade ambiental e reduzir a dependência de combustíveis fósseis. O veículo utiliza um sistema de reciclagem integrado que converte resíduos orgânicos e materiais recicláveis em energia utilizável, alimentando um motor elétrico eficiente. Com um design inteligente e tecnologia avançada, o EcoMobile não apenas oferece uma solução para o problema crescente do acúmulo de lixo, mas também proporciona uma forma inovadora de mobilidade urbana, com zero emissões de poluentes atmosféricos. Este projeto representa um passo significativo em direção a um futuro mais limpo e sustentável, onde os recursos são reutilizados de maneira inteligente e responsável.
 
 ## 🤖 Tecnologias Utilizadas
-[ChatGPT](https://chatgpt.com) para criar o projeto e [Criador de imagens do Bing](https://www.bing.com/images/create) para criar as artes do veículo
+[ChatGPT](https://chatgpt.com) para criar o projeto e [Criador de imagens do Bing](https://www.bing.com/images/create) para criar as ilustrações.
 
 ## 🧐 Processo de Criação
 Um projeto de carro movido a lixo reciclável pode ser uma excelente maneira de abordar questões de sustentabilidade e reutilização de recursos. Como estamos necessitando de mudanças, foi solicitado ao ChatGPT um projeto de um veículo ecológico movido a lixo reciclável. Para ilustar o projeto foram geradas imagens no Criador de imagens do Bing.
